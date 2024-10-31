@@ -6,7 +6,7 @@
   - Clean Architecture
   - Empowered
 - 💞️ I’m looking to help small businesses optimize business operations with creative software solutions
-- 📫 How to reach me:  brian@mbdconsulting.tech
+- 📫 How to reach me:  brian@mbriandunson.com
 
 <!---
 mbdunson/mbdunson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
