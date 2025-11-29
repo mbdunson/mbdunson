@@ -2,9 +2,10 @@
 - 👀 I’m interested in freelance software development projects
 - 🌱 I’m currently learning a little bit of everything!  
 - I'm currently reading:
-  - The Pragmatic Programmer
-  - Clean Architecture
+  - The Pragmatic Programmer  
   - Empowered
+  - The Right Side of Happiness
+  - Shape Up
 - 💞️ I’m looking to help small businesses optimize business operations with creative software solutions
 - 📫 How to reach me:  brian@mbriandunson.com
 
